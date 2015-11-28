@@ -50,7 +50,8 @@ void setup() {
 
     //----------------------------
     // SET THE STARTING TIME OF YOUR PROGRAM
-    setTime(12, 30, 30, 15, 10, 2015);
+    // hour, min, sec, day, month, year
+    setTime(6, 30, 10, 31, 10, 2015);
     //----------------------------
 
     //========================
